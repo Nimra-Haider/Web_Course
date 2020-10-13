@@ -1,0 +1,119 @@
+.body_color{
+    background-color: black;
+}
+/*styling of top*/
+#image
+{
+    width: 70px;
+    height: 70px;
+    margin-top: 5px;
+}
+
+.top input[type=text] {
+    float: right;
+    padding: 6px;
+    border: 1px solid black;
+    font-size: 18px;
+    margin-right: 10px;
+  }
+
+.top button{
+    float:right;
+    background-color: black;
+    border: none;
+    font-size: 18px;
+    margin-top: 5px;
+}
+
+.top i{
+      color:white;
+  }
+
+.top a{
+    float: right;
+    top: 0;
+    color:white;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 50px;
+    margin-top: 5px;
+    font-size: 18px;
+    padding: 5px;
+}
+  
+h1{
+    color: white;
+    display: inline;
+    margin-left: 50px;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/*styling of Menu*/
+
+ul{
+    list-style-type: none;
+    
+}
+
+li{
+    display: inline;
+
+}
+li a{
+    color: white;
+    text-decoration: none;
+    position: Relative;
+    padding: 20px;
+    font-size: 20px;
+    margin: 0;
+}
+
+/*sytling links*/
+
+a:hover
+{
+    background-color: white;
+    color: red;
+}
+
+.slide_align
+{
+    text-align: center;
+}
+
+.slide_img
+{
+    height:400px ;
+    width:50% ;
+}
+
+.menu
+{
+    text-align: center;
+}
+
+h2{
+    color: white;
+    text-align: center;
+}
+
+.fan_img{
+    width: 200px;
+    height: 250px;
+    margin-right: 20px;
+}
+
+p{
+    color:rgb(241, 37, 37);
+    font-size: 14pt;
+    margin-right: 5px;
+    margin-left: 10px;
+    padding-left: 0;
+}
+
+p.watch{
+    color: yellow;
+    text-align: center;
+}
+
